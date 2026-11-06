@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Explorer Terminal - A real terminal docked in the File Explorer window">
+  <title>Explorer Terminal</title>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1f2328" opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="239" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="0.5" y="0.5" width="999" height="239" rx="16" fill="url(#dots)"/>
+  <rect x="468" y="62" width="64" height="4" rx="2" fill="#2f81f7"/>
+  <text x="500" y="138" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="63" font-weight="600" letter-spacing="-1" fill="#1f2328">Explorer Terminal</text>
+  <text x="500" y="186" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="22" fill="#59636e">A real terminal docked in the File Explorer window</text>
+</svg>
